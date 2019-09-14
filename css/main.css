@@ -1,0 +1,85 @@
+.banner-section{
+    background-image: url(https://images.unsplash.com/photo-1492144534655-ae79c964c9d7);
+    background-size: cover;
+    height: 1000px;
+    width: 100%;
+    position: relative;
+    background-position: 0;
+}
+
+h1{
+    color: white;
+    transform: translate(25rem, 103px);
+}
+
+h2{
+    color: white;
+    transform: translate(30.5rem, 120px);
+    font-size: 23px;
+    font-style: italic;
+    }
+
+.button_1{
+    color:darkslategrey;
+    transform: translate(33rem, 145px);
+    background-color: black;
+    color: white;
+}
+
+.bugatti{
+    height: 300px;
+}
+
+.porsche{
+    height: 300px;
+    width: 510px;
+
+    
+}
+
+.coupe{
+    height: 300px;
+}
+
+.mission{
+    transform: translate(37rem, -10px);
+    color: black;
+    font-style: italic;
+    font-style: initial;
+
+}
+
+.card-group{
+    position: relative;
+    top: 100px;
+    height: 500px;
+    width: 100%;
+}
+
+.quote{
+    transform: translate(1.5rem, 20px);
+}
+
+.team{
+    transform: translate(38rem, 40px);
+    font-style: italic;
+    color: lightslategrey;
+}
+
+.porsche-button{
+    background-color: black;
+    color: white;
+    position: relative;
+    top: 75px;
+}
+
+.coupe-button{
+    background-color: black;
+    color: white;
+    position: relative;
+    top: 50px;
+}
+
+.team{
+    border-bottom: 0ch;
+}
